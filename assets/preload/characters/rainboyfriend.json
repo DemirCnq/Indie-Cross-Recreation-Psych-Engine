@@ -1,0 +1,133 @@
+{
+  "animations": [
+    {
+      "loop": true,
+      "offsets": [
+        2,
+        2
+      ],
+      "anim": "idle",
+      "fps": 24,
+      "name": "greqerg instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -20,
+        23
+      ],
+      "anim": "singLEFTmiss",
+      "fps": 24,
+      "name": "L-Miss instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -15,
+        -19
+      ],
+      "anim": "singDOWNmiss",
+      "fps": 24,
+      "name": "D-Miss instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -51,
+        21
+      ],
+      "anim": "singUPmiss",
+      "fps": 24,
+      "name": "U-Miss instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -54,
+        27
+      ],
+      "anim": "singRIGHTmiss",
+      "fps": 24,
+      "name": "R-Miss instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        32,
+        1
+      ],
+      "anim": "singLEFT",
+      "fps": 24,
+      "name": "gerfreyer instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        1099,
+        -9
+      ],
+      "anim": "attack",
+      "fps": 24,
+      "name": "Boom instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -30,
+        1
+      ],
+      "anim": "singRIGHT",
+      "fps": 24,
+      "name": "gwgsgd instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -49,
+        57
+      ],
+      "anim": "singUP",
+      "fps": 24,
+      "name": "erstregdrg instance 1",
+      "indices": []
+    },
+    {
+      "loop": false,
+      "offsets": [
+        -15,
+        -36
+      ],
+      "anim": "singDOWN",
+      "fps": 24,
+      "name": "yetyregerg instance 1",
+      "indices": []
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/rainboyfriend",
+  "position": [
+    0,
+    350
+  ],
+  "healthicon": "bf",
+  "flip_x": true,
+  "healthbar_colors": [
+    49,
+    176,
+    209
+  ],
+  "camera_position": [
+    380,
+    -170
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}

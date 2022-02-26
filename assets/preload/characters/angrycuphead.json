@@ -1,0 +1,89 @@
+{
+  "animations": [
+    {
+      "offsets": [
+        -10,
+        0
+      ],
+      "loop": true,
+      "fps": 24,
+      "anim": "idle",
+      "indices": [],
+      "name": "Cup with ef instance"
+    },
+    {
+      "offsets": [
+        61,
+        -17
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singDOWN",
+      "indices": [],
+      "name": "Down instance"
+    },
+    {
+      "offsets": [
+        9,
+        9
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singUP",
+      "indices": [],
+      "name": "Um instance"
+    },
+    {
+      "offsets": [
+        86,
+        -24
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singLEFT",
+      "indices": [],
+      "name": "gzrg instance"
+    },
+    {
+      "offsets": [
+        -16,
+        24
+      ],
+      "loop": false,
+      "fps": 24,
+      "anim": "singRIGHT",
+      "indices": [],
+      "name": "YOU instance"
+    },
+    {
+      "offsets": [
+        241,
+        155
+      ],
+      "indices": [],
+      "fps": 24,
+      "anim": "hurt",
+      "loop": false,
+      "name": "oUCHY instance"
+    }
+  ],
+  "no_antialiasing": false,
+  "image": "characters/angrycuphead",
+  "position": [
+    0,
+    240
+  ],
+  "healthicon": "cup3",
+  "flip_x": false,
+  "healthbar_colors": [
+    213,
+    126,
+    0
+  ],
+  "camera_position": [
+    -180,
+    -110
+  ],
+  "sing_duration": 4,
+  "scale": 1
+}
