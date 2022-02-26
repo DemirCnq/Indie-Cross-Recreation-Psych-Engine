@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Rain.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rain0000" x="10" y="10" width="1289" height="731" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0001" x="1309" y="10" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0002" x="2608" y="10" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0003" x="10" y="755" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0004" x="1309" y="755" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0005" x="2608" y="10" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0006" x="10" y="755" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0007" x="1309" y="10" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0008" x="2608" y="10" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+	<SubTexture name="Rain0009" x="2608" y="755" width="1289" height="735" frameX="0" frameY="0" frameWidth="1920" frameHeight="1080"/>
+</TextureAtlas>
